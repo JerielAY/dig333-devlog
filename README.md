@@ -41,7 +41,7 @@ List each Platt experiment / Monk recipe outcome and show your work:
 
 -->
 
-Week 1
+## Week 1
 
 Tom Igoe, Physicality and Conviviality 
 
@@ -50,3 +50,18 @@ In the TEDxBigApple video by Tom Igoe, Igoe describes the nature of physical com
 - Quote: "users download plans or buy them from their typical companies and add more value to the items their buying by customizing them".
 - Comment: I think it's interesting that Igoe believes conusmers/creators are adding more value to the products by customizing them, typically large tech leaders don't encourage this kind of iteration on their products because of the demands it places on the companies devlopment methodologies (e.g. Apple and their developer regulations)
 - Question: What are some ways that companies can effectively make this shift to allowing innovation to flow both ways?
+
+
+## Week 2
+
+### Author, Article
+
+- Quote:
+- Comment:
+- Question:
+
+### Experiment #2
+
+1. Text, photos, etc.
+1. Most important: 
+1. Quiz question:
