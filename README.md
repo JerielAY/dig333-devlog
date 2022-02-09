@@ -75,7 +75,7 @@ In the article by Sanjay Sarma, Sarma addresses the widespread security concerns
 
 ### Experiment 2: Abuse a Battery
 
-1. Text, photos, etc.
+1. Text, photos, notes
 
    - Using the water analogy, the narowness of a tank/pipe is resistance, water pressure is voltage, and the flow of the water is the currrent so: water pressure = flow *      narowness
   
@@ -84,3 +84,15 @@ In the article by Sanjay Sarma, Sarma addresses the widespread security concerns
    -  3 differences between DC and AC are the direction the current flows in each, DC is not capable of traveling the long distances that AC is, Its easier to generate AC power than it is DC power
   
 1. Quiz question: Why is it easier to generate AC power than it is DC power
+
+### Experiment #3: Your First Circuit
+
+1. Text, photos, etc.
+![thumbnail_IMG_9853](https://user-images.githubusercontent.com/51386595/153123054-0045b6c1-13fa-42d1-8e2e-7b825dbff5be.jpg)
+
+
+  - Its often easiest to read the bag when trying to determine resistance
+  - When measuring the voltage through a basic circuit the multimeter reads about 4.7 volts, it reads about the same when the resistor is included in the circuit further verifying Ohm's law
+  - 
+3. Most important: 
+4. Quiz question:
