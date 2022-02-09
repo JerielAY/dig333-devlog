@@ -66,8 +66,21 @@ In the article by Sanjay Sarma, Sarma addresses the widespread security concerns
 - Question: How can existing IOT technologies be made to conform retroactively to developing standards?
 
 
-### Experiment #2
+### Experiment 1: Taste the Power
+
+1. ![IMG_9852](https://user-images.githubusercontent.com/51386595/153117848-9e258e1e-eda2-419b-b847-ca0386a2f2a4.jpg)
+
+1. Most important: Though the design has changed and been updated over the years the basic way we use multimeters has remained the same over the years
+1. Quiz question: What is the difference between an auto range meter and a manual range meter?
+
+### Experiment 2: Abuse a Battery
 
 1. Text, photos, etc.
-1. Most important: 
-1. Quiz question:
+
+   - Using the water analogy, the narowness of a tank/pipe is resistance, water pressure is voltage, and the flow of the water is the currrent so: water pressure = flow *      narowness
+  
+   - Charge is measured in couloumbs, voltage in volts and current in Amperes
+  
+   -  3 differences between DC and AC are the direction the current flows in each, DC is not capable of traveling the long distances that AC is, Its easier to generate AC power than it is DC power
+  
+1. Quiz question: Why is it easier to generate AC power than it is DC power
