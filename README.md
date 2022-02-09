@@ -63,7 +63,7 @@ In the article by Sanjay Sarma, Sarma addresses the widespread security concerns
 
 - Quote: "our glorious future of flying cars and convenience was somehow switched out for umbrellas that tweet us when it’s going to rain, and a fridge that live streams its contents. How did the Jetsons become so lame?"
 - Comment: I think it's interesting to consider how societal expectations influence the acceptance or rejection of certain technologies. And although its done in jest I think this is a piece of what Internet of Shit is getting at.
-- Question: How can existing IOT technologies that have already been in existence and operation be made to conform retroactively to developing standards?
+- Question: How can existing IOT technologies be made to conform retroactively to developing standards?
 
 
 ### Experiment #2
