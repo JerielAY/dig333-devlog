@@ -101,7 +101,8 @@ In the article by Sanjay Sarma, Sarma addresses the widespread security concerns
 
 ### Experiment #4
 
-1. Text, photos, etc.
+1. Text, photos, etc
+
   ![potentiometer](https://user-images.githubusercontent.com/51386595/153124511-88536dde-01dd-42ce-8ac7-a398fcee0caa.jpg)
 
   - Polarity generally describes the directional flow of electrons from one pole to another
