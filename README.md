@@ -43,7 +43,7 @@ List each Platt experiment / Monk recipe outcome and show your work:
 
 ## Week 1
 
-Tom Igoe, Physicality and Conviviality 
+### Tom Igoe, Physicality and Conviviality 
 
 In the TEDxBigApple video by Tom Igoe, Igoe describes the nature of physical computing and how a broadening of the physical computing landscape is accompanying a shift in computational culture. He describes how companies and creators are moving towards different models of innovation.  As a result of this shift a lot of major technologies are becoming open source, creators and innovators are flocking to maker spaces and companies are incentivized to make their products modifiable.
 
@@ -54,11 +54,17 @@ In the TEDxBigApple video by Tom Igoe, Igoe describes the nature of physical com
 
 ## Week 2
 
-### Author, Article
 
-- Quote:
-- Comment:
-- Question:
+### Internet of Shit, The Internet of Things has a dirty little secret: it's not really yours
+In the article by Internet of Shit, Internet of Shit describes the staggerng number of ways an increasingly IOT trending society could fail or create more problems than it solves. Internet of Shit gives a number of examples of this including the horror of in-app purchase possibly being incorporated into essential technologies like thermostats and refrigeration. Ultimately Internet of Shit believes some of these technologies have their place in the world however for them to be completely effective will require commitments from manufacturers that are not quite yet in place. 
+
+### Sanjay Sarma, The Internet of Things: Roadmap to a Connected World 
+In the article by Sanjay Sarma, Sarma addresses the widespread security concerns that have been associated with an increasingly connected society. Sarma breaks these concerns into 3 major issues: Agreement on system architecture, Development of open standards reflecting the best architectural choices, Creation of a “test bed” where best practices can be designed and perfected. He posits that as long as the main issues are addresed as IOT continues to develop, then the negative aspects of IOT can be reigned in.
+
+- Quote: "our glorious future of flying cars and convenience was somehow switched out for umbrellas that tweet us when it’s going to rain, and a fridge that live streams its contents. How did the Jetsons become so lame?"
+- Comment: I think it's interesting to consider how societal expectations influence the acceptance or rejection of certain technologies. And although its done in jest I think this is a piece of what Internet of Shit is getting at.
+- Question: How can existing IOT technologies that have already been in existence and operation be made to conform retroactively to developing standards?
+
 
 ### Experiment #2
 
