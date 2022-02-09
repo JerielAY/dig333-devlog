@@ -10,6 +10,7 @@ INSTRUCTIONS
 COPY/PASTE THE TEXT BELOW AND EDIT IT FOR EACH WEEK. SEE ASSIGNMENTS FOR DETAILS
 https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/edit
 
+
 INSTRUCTIONS
 
 Summarize the article(s) in 3-4 sentences. Also include...
@@ -39,3 +40,13 @@ List each Platt experiment / Monk recipe outcome and show your work:
 
 
 -->
+
+Week 1
+
+Tom Igoe, Physicality and Conviviality 
+
+In the TEDxBigApple video by Tom Igoe, Igoe describes the nature of physical computing and how a broadening of the physical computing landscape is accompanying a shift in computational culture. He describes how companies and creators are moving towards different models of innovation.  As a result of this shift a lot of major technologies are becoming open source, creators and innovators are flocking to maker spaces and companies are incentivized to make their products modifiable.
+
+- Quote: "users download plans or buy them from their typical companies and add more value to the items their buying by customizing them".
+- Comment: I think it's interesting that Igoe believes conusmers/creators are adding more value to the products by customizing them, typically large tech leaders don't encourage this kind of iteration on their products because of the demands it places on the companies devlopment methodologies (e.g. Apple and their developer regulations)
+- Question: What are some ways that companies can effectively make this shift to allowing innovation to flow both ways?
