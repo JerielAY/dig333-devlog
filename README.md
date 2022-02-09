@@ -88,11 +88,25 @@ In the article by Sanjay Sarma, Sarma addresses the widespread security concerns
 ### Experiment #3: Your First Circuit
 
 1. Text, photos, etc.
+
+
 ![thumbnail_IMG_9853](https://user-images.githubusercontent.com/51386595/153123054-0045b6c1-13fa-42d1-8e2e-7b825dbff5be.jpg)
 
 
   - Its often easiest to read the bag when trying to determine resistance
   - When measuring the voltage through a basic circuit the multimeter reads about 4.7 volts, it reads about the same when the resistor is included in the circuit further verifying Ohm's law
-  - 
-3. Most important: 
-4. Quiz question:
+  - There are numerous places along the circuit at which a voltage measurement can be taken
+3. Most important: Always be careful when dealing with current 
+4. Quiz question: Why does an LED burnout?
+
+### Experiment #4
+
+1. Text, photos, etc.
+  ![potentiometer](https://user-images.githubusercontent.com/51386595/153124511-88536dde-01dd-42ce-8ac7-a398fcee0caa.jpg)
+
+  - Polarity generally describes the directional flow of electrons from one pole to another
+  - The current and voltage measurements throughout the components of the cirrcuit can all be related by measuring the resistance of the wires and utilinz mathematical calculations 
+  - Ohm's law V = I * R
+  - creating circuits in series or parallel affects the value of certain measurements in a circuit depending on the components being connected.
+  - Circuits in series mean that if one unit of the circuit burns out the entire circuit will fail
+4. Quiz question: How do you caluclate total current in parallel?
