@@ -111,3 +111,18 @@ In the article by Sanjay Sarma, Sarma addresses the widespread security concerns
   - creating circuits in series or parallel affects the value of certain measurements in a circuit depending on the components being connected.
   - Circuits in series mean that if one unit of the circuit burns out the entire circuit will fail
 4. Quiz question: How do you calculate total current in parallel?
+
+
+## Week 3
+
+### Phillip K Dick, Pay for the Printer
+
+- Quote:
+- Comment:
+- Question:
+
+### Experiment #1
+
+1. Text, photos, etc.
+1. Most important: 
+1. Quiz question:
