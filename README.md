@@ -116,10 +116,13 @@ In the article by Sanjay Sarma, Sarma addresses the widespread security concerns
 ## Week 3
 
 ### Phillip K Dick, Pay for the Printer
+In Pay for the Printer by Phillip K Dick, Dick describes a world in which creating from scratch has become a rarity. A mysterious machine known as the Biltong(which has striking similarities to a 3d printer)is responsible for the development of all new items in the original. It accomplishes this by way of a process known as printing new copies from originals (or orignally made items/very realistic copies). By the end of the story, however, 2 of the main characters figure out that they can create the same items they need from scratch they just need to rebuild the architecture necessary to do so. Dick's story hints at the danger in futuristic processes like 3d printing where items possibly no longer have the same level of quality or end up requiring more labor in the long run to maintain.
 
-- Quote:
-- Comment:
-- Question:
+
+- Quote:"I can't believe it. Where do you start? You have to have tools
+to make this. It's a paradox!" His voice rose with hysteria. "It isn't possible!"
+- Comment: I think it was interesting the way that Dick humanized the Biltong by extending the drama in the last scene as the people rushed the Biltong and it fought as hard as it could to preserve itself. 
+- Question: Why did the people believe that the made item would be easier for the Biltong to make ?
 
 ### Experiment #1
 
