@@ -1,0 +1,12 @@
+### Milestone 2
+
+After tinkering with a few different color detection software, that were a bit challenging to use 
+as well as attepoting to utilize a color sensor monitor in place of a computer vision software, you
+(Dr. Mundy) suggested that I look into the open source computer vision software OpenCV which already would have
+a pre-existing color detection library. Subsequently I downloaded openCV onto my computer and began 
+researching color recognition scripts and practices with openCV. I found a couple of different resources online including 
+the documentation of openCV, a couple different tutorial websites, and a number of youtube videos. After consuming some of
+this prepatory material as well, tinkering with different code from online and from the documentation, I was able to begin 
+filtering out select color ranges using a slider hub to select the range of RGB values.
+
+!(C:\Users\Faith Klinik\OneDrive\Documents\testing_color_detection_windows)
