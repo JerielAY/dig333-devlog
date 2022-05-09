@@ -1,0 +1,17 @@
+###Milestone 3
+
+The majority of Milestone 3 has been spent attempting to integrate image detection software into the exisitng preoject 
+code bank. Initially I secured a few different scripts from various places online that all claimed to be iterations of 
+image detection libraries. I then utilized my computer camera to test the capabilities of this software by sampling 
+a variety of methods that allowed for the camera to be utilized as an object tracker. My attempts at this integration  
+were challenging because both the image detection software and the color detection software were utilizing the same
+camera interface but were not displaying simultaneously. Addtitionally once the integration was complete visually and both 
+scripts were utilizing the same window to display results, the challenge became ensuring that the integrity of 
+both scripts remained and that each script would carry out its task despite this integration. I struggled on this portion of the 
+the exercise as it wasn't immediately clear to me which pieces of code needed to remain within the codebase 
+to grant functionality. I also struggled with how to consolidate the functionality of the two filtering hubs given 
+their disparate nature as well as the facts that the two filtering hubs were filtering on different image channels.
+A problem that became more apparent to me as I realized there needed to be only one opening of the webcam to prevent 
+the generation of two visual streams. Hitting this blocker, my next steps would be to work towards integrating 
+spotify playback compatibility into the project to so that once the color indicator flag can be harvested
+from the color tracking software. The playback functionality is readily avaliable.
