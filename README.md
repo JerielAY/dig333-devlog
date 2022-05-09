@@ -260,8 +260,7 @@ In the article by Sanjay Sarma, Sarma addresses the widespread security concerns
 In Pay for the Printer by Phillip K Dick, Dick describes a world in which creating from scratch has become a rarity. A mysterious machine known as the Biltong(which has striking similarities to a 3d printer)is responsible for the development of all new items in the original. It accomplishes this by way of a process known as printing new copies from originals (or orignally made items/very realistic copies). By the end of the story, however, 2 of the main characters figure out that they can create the same items they need from scratch they just need to rebuild the architecture necessary to do so. Dick's story hints at the danger in futuristic processes like 3d printing where items possibly no longer have the same level of quality or end up requiring more labor in the long run to maintain.
 
 ### THE PRESERVING MACHINE
-
-The main protagonist Doc Labyrinth fears for the safety of the fragile works of great value, particularly classical music, in the event of the apocalypse. Accordingly, he orders a machine to be built that will be able to convert musical scores into animals capable of surviving and defending themselves.
+Over the course of the Preserving Machine the main protagonist Doc Labyrinth fears for the safety of the fragile works of great value, particularly classical music, in the event of the apocalypse. Accordingly, he orders a machine to be built that will be able to convert musical scores into animals capable of surviving and defending themselves.
 
 - Quote:"I said good night and got into my car. It was pitch dark; nighthad fallen completely. I switched on my headlights and moved off down the road, driving into the utter darkness. There were no other cars in sight anywhere. I was alone, and very cold. "
 - Comment: It was interesting the way that the main character described the music which ended up being produced by the preserving machine. The result seemed a bit anti-climatic given that entire protagonist main dreams and wishes were predicated on their abiity to replicate this high value music.
@@ -273,7 +272,7 @@ The main protagonist Doc Labyrinth fears for the safety of the fragile works of 
 ## Week 5
 
 ### Everything That’s Inside Your iPhone
-Within the article Everything That's Inside Your iPhone Brian Merchant describes the nuanced process by which the materials for an Apple iPhone are gathered and prepared. The author seeks to provide the reader with a window into the composition of the iPhone at its most foundational level.
+Within the article _Everything That's Inside Your iPhone Brian Merchant_ describes the nuanced process by which the materials for an Apple iPhone are gathered and prepared. The author seeks to provide the reader with a window into the composition of the iPhone at its most foundational level.
 
 ### One Man's Nearly Impossible Quest to Make a Toaster From Scratch
 In One Man's Nearly Imposssible Quest to Make a Toaster From Scratch Rachel Swaby describes how designer Thomas Thwaites decides to build a toaster from scratch. Thwaites cycles through a number of different materials ranging from commercial level quality resources to raw materials out of earth.
@@ -288,13 +287,23 @@ In One Man's Nearly Imposssible Quest to Make a Toaster From Scratch Rachel Swab
 ## Week 6
 
 ### Igloo White
-In Igloo White John T. Correll describes the seeding of the Ho Chinh Minh Trail with 20000 sensors in Vietnam. The trail was a major route way for supplies, troops and weapons over the duration of the war. Correll also highlights the role that the secretary of defense Robert S. McNamara played in developing and implementing the military strategy of the time interdiction.
+In _Igloo White_ John T. Correll describes the seeding of the Ho Chinh Minh Trail with 20000 sensors in Vietnam. The trail was a major route way for supplies, troops and weapons over the duration of the war. Correll also highlights the role that the secretary of defense Robert S. McNamara played in developing and implementing the military strategy of the time interdiction.
 
 - Quote: "Before, the enemy had two things going for him. The sun went down every night, and he had trees to hide under. Now he
 has nothing.”"
 
 - Comment: I am shocked that the United States committed to such a large scale operation that had a relatively limited chance of success. With the amount of variables that the troops within the terrain would have to adjust for and the possibility of missing trails or hidden paths it appears to be a very large rash commmitment. This is exacerbated by the fact that initial readings from the sensors were not favorable, however, the operation was kept active.
   
-- Question: Why did the government continue this operation after confirming that there were a number of paths for which sensor paths were not laid out for ?
+- Question: Why did the government continue this operation after confirming that there were a number of paths for which sensor paths were not laid out for?
 
- ## Week 7
+## Week 7
+
+### Unseen Sensors Constantly Sensing but Rarely Seen
+In _Unseen Sensors Constantly Sensing but Rarely Seen_ Mayo Nissen describes 
+
+- Quote: "They’re everywhere. We attach them to our wrists, embed them into our medical devices, and mount them onto the lampposts that dot every block of our city. Some sensing technologies capture our imagination and attract our constant attention. Yet many go unnoticed, their insides packed with unknowable electronic components, ceaselessly counting, measuring, and transmitting. For what purpose, or to whose gain, is often unclear."
+
+- Comment: "It was shocking to me that items on the internet are still capable of existing there forever given the things we've learned about privacy as a society. I believed that by this juncture in society legislation would have been passed to regulate occurrences like this.
+  
+- Question: Given the stage of development these machines have reached, as well as their level of immersion within society, it too late for comprehensive and effective legislation to be passed that would regulate the reach of these ubiquitous machines?
+   
