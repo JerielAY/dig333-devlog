@@ -113,7 +113,9 @@ In the article by Sanjay Sarma, Sarma addresses the widespread security concerns
 4. Quiz question: How do you calculate total current in parallel?
 
 ## Week 3
+
 ### Led the Discussion 
+
 
 ## Week 4
 
