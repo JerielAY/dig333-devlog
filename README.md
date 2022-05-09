@@ -300,7 +300,7 @@ has nothing.”"
 - Question: Why did the government continue this operation after confirming that there were a number of paths for which sensor paths were not laid out for?
 
 ## Week 7
-
+(week 6 seperated out)
 ### Unseen Sensors Constantly Sensing but Rarely Seen
 In _Unseen Sensors Constantly Sensing but Rarely Seen_ Mayo Nissen describes 
 
