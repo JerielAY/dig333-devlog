@@ -112,6 +112,8 @@ In the article by Sanjay Sarma, Sarma addresses the widespread security concerns
   - Circuits in series mean that if one unit of the circuit burns out the entire circuit will fail
 4. Quiz question: How do you calculate total current in parallel?
 
+## Week 3
+### Led the Discussion 
 
 ## Week 4
 
