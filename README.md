@@ -278,17 +278,23 @@ Within the article Everything That's Inside Your iPhone Brian Merchant describes
 ### One Man's Nearly Impossible Quest to Make a Toaster From Scratch
 In One Man's Nearly Imposssible Quest to Make a Toaster From Scratch Rachel Swaby describes how designer Thomas Thwaites decides to build a toaster from scratch. Thwaites cycles through a number of different materials ranging from commercial level quality resources to raw materials out of earth.
 
-
 - Quote: "Michaud writes, "aluminum and iron were the most abundant metals in the phone accounting for 38.5 percent of the iPhone mass. Other metals, such as copper, cobalt, chromium, and nickel accounted for 17.1 percent of the mass. Lithium was measured to be about 0.67 percent of the iPhone mass. Other elements of interest were carbon, at 15.4 percent, and silicon at 6.3 percent. There's even a trace amount of arsenic in the phone, though not enough to be toxic." 
 
-"In the end he put together a haggard-looking stripped-down version of something we can buy for the price of a sandwich. It only took him nine months, several trips across country lines, and a many moments of lateral thinking. He did plug it in once, but because he wasn't able to make insulation for the wires, the toaster started melting itself about 5 seconds in. Thwaites considers it a partial success."
-
 - Comment: I was shocked at the variety of materials that are needed to develop the apple iPhone as well as the variety of places from which these materials are sourced from. It was very interesting to me that one of their tour guides also worked part-time as an elementary school teacher, a combination I've never encountered before.
-Very rarely in a world consumed by consumerism are we encouraged to take the time to reflect on the origins of the items that we are consuming. This highlights the manner in which overconsumption drives our every waking moment as the need to consume propels the masses.
-
+  
 - Question: Are there steps being taken to remove the damage done in areas like the toxic waste lake, within inner Mongolia?
-Do you need to secure some kind of license to be able to purchase the kind of materials and equipment that the main character uses throughout the article.
+   Do you need to secure some kind of license to be able to purchase the kind of materials and equipment that the main character uses throughout the article.
 
 ## Week 6
 
-### Everything That’s Inside Your iPhone
+### Igloo White
+In Igloo White John T. Correll describes the seeding of the Ho Chinh Minh Trail with 20000 sensors in Vietnam. The trail was a major route way for supplies, troops and weapons over the duration of the war. Correll also highlights the role that the secretary of defense Robert S. McNamara played in developing and implementing the military strategy of the time interdiction.
+
+- Quote: "Before, the enemy had two things going for him. The sun went down every night, and he had trees to hide under. Now he
+has nothing.”"
+
+- Comment: I am shocked that the United States committed to such a large scale operation that had a relatively limited chance of success. With the amount of variables that the troops within the terrain would have to adjust for and the possibility of missing trails or hidden paths it appears to be a very large rash commmitment. This is exacerbated by the fact that initial readings from the sensors were not favorable, however, the operation was kept active.
+  
+- Question: Why did the government continue this operation after confirming that there were a number of paths for which sensor paths were not laid out for ?
+
+ ## Week 7
