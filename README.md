@@ -122,8 +122,6 @@ In Pay for the Printer by Phillip K Dick, Dick describes a world in which creati
 
 The main protagonist Doc Labyrinth fears for the safety of the fragile works of great value, particularly classical music, in the event of the apocalypse. Accordingly, he orders a machine to be built that will be able to convert musical scores into animals capable of surviving and defending themselves.
 
-### THE PRESERVING MACHINE
-
 - Quote:"I said good night and got into my car. It was pitch dark; nighthad fallen completely. I switched on my headlights and moved off down the road, driving into the utter darkness. There were no other cars in sight anywhere. I was alone, and very cold. "
 - Comment: It was interesting the way that the main character described the music which ended up being produced by the preserving machine. The result seemed a bit anti-climatic given that entire protagonist main dreams and wishes were predicated on their abiity to replicate this high value music.
 - Question: What does the symbol of the dung beetle mean in the context of this story?
@@ -133,11 +131,12 @@ The main protagonist Doc Labyrinth fears for the safety of the fragile works of 
 
 ## Week 5
 
-### Phillip K Dick, Pay for the Printer
-In Pay for the Printer by Phillip K Dick, Dick describes a world in which creating from scratch has become a rarity. A mysterious machine known as the Biltong(which has striking similarities to a 3d printer)is responsible for the development of all new items in the original. It accomplishes this by way of a process known as printing new copies from originals (or orignally made items/very realistic copies). By the end of the story, however, 2 of the main characters figure out that they can create the same items they need from scratch they just need to rebuild the architecture necessary to do so. Dick's story hints at the danger in futuristic processes like 3d printing where items possibly no longer have the same level of quality or end up requiring more labor in the long run to maintain.
+### Everything That’s Inside Your iPhone
+Within the article Everything That's Inside Your iPhone Brian Merchant describes the nuanced process by which the materials for an Apple iPhone are gathered and prepared. The author seeks to provide the reader with a window into the composition of the iPhone at its most foundational level.
+
+- Quote: "Michaud writes, "aluminum and iron were the most abundant metals in the phone accounting for 38.5 percent of the iPhone mass. Other metals, such as copper, cobalt, chromium, and nickel accounted for 17.1 percent of the mass. Lithium was measured to be about 0.67 percent of the iPhone mass. Other elements of interest were carbon, at 15.4 percent, and silicon at 6.3 percent. There's even a trace amount of arsenic in the phone, though not enough to be toxic."
+- Comment: I was shocked at the variety of materials that are needed to develop the apple iPhone as well as the variety of places from which these materials are sourced from. It was very interesting to me that one of their tour guides also worked part-time as an elementary school teacher, a combination I've never encountered before.
+- Question: Are there steps being taken to remove the damage done in areas like the toxic waste lake, within inner Mongolia?
 
 
-- Quote:"I can't believe it. Where do you start? You have to have tools
-to make this. It's a paradox!" His voice rose with hysteria. "It isn't possible!"
-- Comment: I think it was interesting the way that Dick humanized the Biltong by extending the drama in the last scene as the people rushed the Biltong and it fought as hard as it could to preserve itself. 
-- Question: Why did the people believe that the made item would be easier for the Biltong to make ?
+
